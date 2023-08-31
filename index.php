@@ -1,2 +1,2 @@
 <?php
-    echo 'Prueba code';
+    echo 'Prueba code desde web';
